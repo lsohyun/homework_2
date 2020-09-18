@@ -29,24 +29,27 @@ img{
     height: auto;
 }
 
-div{
-    padding: 25px;
-    height: 150px;
-}
+
 
 #red{
     background-color: #ff0000;
     text-align: right;
+    padding: 25px;
+    height: 150px;
 }
 
 #blue{
     background-color: #0000ff;
     text-align: left;
+    padding: 25px;
+    height: 150px;
 }
 
 #yellow{
     background-color: #ffff00;
     text-align: right;
+    padding: 25px;
+    height: 150px;
 }
 
 #yellow p{
@@ -61,9 +64,11 @@ div{
 #green{
     background-color: #008000;
     text-align: left;
+    padding: 25px;
+    height: 150px;
 }
 
-footer p{
+footer{
     text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
