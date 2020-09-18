@@ -33,32 +33,32 @@ img{
     background-color:#000000;
     text-align: left;
     padding:25px 25px 25px 25px;
-    height:150px;
+    height:160px;
 }
 
 #red{
     background-color: #ff0000;
     text-align: right;
     padding: 25px 25px 25px 25px;
-    height: 150px;
+    height: 160px;
 }
 
 #blue{
     background-color: #0000ff;
     text-align: left;
     padding: 25px 25px 25px 25px;
-    height: 150px;
+    height: 160px;
 }
 
 #yellow{
     background-color: #ffff00;
     text-align: right;
     padding: 25px 25px 25px 25px;
-    height: 150px;
+    height: 160px;
 }
 
 #yellow p{
-    color:black;
+    color:#000000;
 }
 
 #yellow h2{
@@ -70,7 +70,7 @@ img{
     background-color: #008000;
     text-align: left;
     padding: 25px 25px 25px 25px;
-    height: 150px;
+    height: 160px;
 }
 
 footer p{
