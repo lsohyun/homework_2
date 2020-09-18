@@ -33,28 +33,28 @@ img{
     background-color:#000000;
     text-align: left;
     padding:25px 25px 25px 25px;
-    height:160px;
+    height:auto;
 }
 
 #red{
     background-color: #ff0000;
     text-align: right;
     padding: 25px 25px 25px 25px;
-    height: 160px;
+    height: auto;
 }
 
 #blue{
     background-color: #0000ff;
     text-align: left;
     padding: 25px 25px 25px 25px;
-    height: 160px;
+    height: auto;
 }
 
 #yellow{
     background-color: #ffff00;
     text-align: right;
     padding: 25px 25px 25px 25px;
-    height: 160px;
+    height: auto;
 }
 
 #yellow p{
@@ -70,7 +70,7 @@ img{
     background-color: #008000;
     text-align: left;
     padding: 25px 25px 25px 25px;
-    height: 160px;
+    height: auto;
 }
 
 footer p{
